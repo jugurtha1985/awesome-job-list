@@ -103,7 +103,8 @@ A collection of awesome places to job hunt for people in tech. Compiled resource
 * PeoplePerHour: https://www.peopleperhour.com
 * Pilot: https://pilot.co
 * Scalable Path https://www.scalablepath.com/
-* laotop: https://www.malt.fr/
+* malt: https://www.malt.fr/
+* laotop: https://www.laotop.fr/
 
 ## Misc
 * Muse: http://themuse.com/jobs
